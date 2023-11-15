@@ -1,7 +1,7 @@
 # Simplex
 Simplex Algorithm implementation in Python capable of solving simple and complex problems
 The equation is written in this form:
-8 8 # NxN
+8 8 // NxN
 
 # Matrix that we are solving
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
